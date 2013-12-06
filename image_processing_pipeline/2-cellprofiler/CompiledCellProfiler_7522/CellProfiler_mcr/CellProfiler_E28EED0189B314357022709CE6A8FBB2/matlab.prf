@@ -1,0 +1,27 @@
+#MATLAB Preferences
+#Mon May 18 12:10:51 EDT 2009
+RLHiddenB2_WB_2006b_1=I16184
+RLOrderB2_WB_2006b_1=S0:1:2:3:
+RLPrevInitB2_WB_2006b_1=Btrue
+FileBrowserFiveColumnWidths=S[150 100 75 150 400]
+ReplaceMatchCase=Bfalse
+ReplaceWordWrap=Bfalse
+MatlabExitConfirm=Bfalse
+PathBrowserWindowBounds=R50 50 500 400
+ReplaceWholeWord=Bfalse
+RLWidthB2_WB_2006b_1_3=I50
+RLWidthB2_WB_2006b_1_2=I50
+RLWidthB2_WB_2006b_1_1=I130
+RLWidthB2_WB_2006b_1_0=I130
+EditorMRU9=S
+EditorMRU8=S
+EditorMRU7=S
+MatlabErrorLogReportTime=J4694549301309841317
+EditorMRU6=S
+EditorMRU5=S
+EditorMRU4=SC:\\CellProfiler_7184\\CPsubfunctions\\CPconvertsql.m
+EditorMRU3=SC:\\CellProfiler_7184\\CPsubfunctions\\CPconfirmallimagespresent.m
+EditorMRU2=SC:\\Program Files\\MATLAB\\R2008a\\toolbox\\local\\startup.m
+CommandWindowClearConfirmation=Btrue
+EditorMRU1=SC:\\Users\\va-mbray\\Desktop\\startup.m
+FileBrowserFiveColumnOrder=S[0 1 2 3 4]

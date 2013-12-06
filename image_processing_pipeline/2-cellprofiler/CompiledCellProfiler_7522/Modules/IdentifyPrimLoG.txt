@@ -1,0 +1,11 @@
+%textVAR01 = What did you call the images you want to process?
+%infotypeVAR01 = imagegroup
+%inputtypeVAR01 = popupmenu
+%textVAR02 = What do you want to call the objects identified by this module?
+%defaultVAR02 = Nuclei
+%infotypeVAR02 = objectgroup indep
+%textVAR03 = Typical diameter of objects, in pixel units:
+%defaultVAR03 = 10
+%textVAR04 = Score threshold for match.  Enter a number, or leave as ''Automatic''.
+%defaultVAR04 = Automatic
+%%%VariableRevisionNumber = 1

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/CellProfiler/!svn/ver/7472/branches/release_7184/BatchProfiler
+END
+KillJobs.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/CellProfiler/!svn/ver/7472/branches/release_7184/BatchProfiler/KillJobs.py
+END
+StyleSheet.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/CellProfiler/!svn/ver/7472/branches/release_7184/BatchProfiler/StyleSheet.py
+END
+NewBatch.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/CellProfiler/!svn/ver/7472/branches/release_7184/BatchProfiler/NewBatch.py
+END
+UploadToDatabase.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/CellProfiler/!svn/ver/7472/branches/release_7184/BatchProfiler/UploadToDatabase.py
+END
+ViewBatch.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/CellProfiler/!svn/ver/7472/branches/release_7184/BatchProfiler/ViewBatch.py
+END
+ViewTextFile.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/CellProfiler/!svn/ver/7472/branches/release_7184/BatchProfiler/ViewTextFile.py
+END
+DeleteFile.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/CellProfiler/!svn/ver/7472/branches/release_7184/BatchProfiler/DeleteFile.py
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/CellProfiler/!svn/ver/7472/branches/release_7184/BatchProfiler/readme.txt
+END
+BPeek.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/CellProfiler/!svn/ver/7472/branches/release_7184/BatchProfiler/BPeek.py
+END
+RunBatch.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/CellProfiler/!svn/ver/7472/branches/release_7184/BatchProfiler/RunBatch.py
+END

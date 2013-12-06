@@ -1,0 +1,6 @@
+%textVAR01 = Which image represents the ground truth (true positives)?
+%infotypeVAR01 = imagegroup
+%inputtypeVAR01 = popupmenu
+%textVAR02 = Which image do you want to test against the ground truth?
+%infotypeVAR02 = imagegroup
+%inputtypeVAR02 = popupmenu

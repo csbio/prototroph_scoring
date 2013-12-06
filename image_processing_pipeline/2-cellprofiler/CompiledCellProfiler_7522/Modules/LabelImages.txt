@@ -1,0 +1,11 @@
+%textVAR01 = What would you like to call the labels that you create with this module?
+%defaultVAR01 = PlateLayout
+%textVAR02 = How many rows and columns are in your plates? (96 well plates are 8,12; 384 well plates are 16,24; 1536 well plates are 32,48)
+%defaultVAR02 = 8,12
+%textVAR03 = The first image cycle will be labeled A01. What should the second well be labeled? 
+%choiceVAR03 = A02
+%choiceVAR03 = B01
+%inputtypeVAR03 = popupmenu
+%textVAR04 = How many images cycles are associated with each well, if there are multiple fields of view per well?
+%defaultVAR04 = 1
+%%%VariableRevisionNumber = 1

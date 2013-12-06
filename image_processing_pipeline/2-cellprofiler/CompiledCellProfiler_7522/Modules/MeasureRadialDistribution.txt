@@ -1,0 +1,13 @@
+%textVAR01 = What did you call the image for which you want to measure the intensity distribution?
+%infotypeVAR01 = imagegroup
+%inputtypeVAR01 = popupmenu
+%textVAR02 = What did you call the objects in which you want to measure intensity distribution?
+%infotypeVAR02 = objectgroup
+%inputtypeVAR02 = popupmenu
+%textVAR03 = What objects do you want to use as centers (use "Do not use" to use distance-based centers)?
+%choiceVAR03 = Do not use
+%infotypeVAR03 = objectgroup
+%inputtypeVAR03 = popupmenu
+%textVAR04 = How many bins do you want to use to store the distribution?
+%defaultVAR04 = 4
+%%%VariableRevisionNumber = 1

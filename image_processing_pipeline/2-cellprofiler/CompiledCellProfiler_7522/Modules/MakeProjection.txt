@@ -1,0 +1,15 @@
+%textVAR01 = What did you call the images to be made into a projection?
+%infotypeVAR01 = imagegroup
+%inputtypeVAR01 = popupmenu
+%textVAR02 = What kind of projection would you like to make?
+%choiceVAR02 = Average
+%choiceVAR02 = Maximum
+%inputtypeVAR02 = popupmenu
+%textVAR03 = What do you want to call the projected image?
+%defaultVAR03 = ProjectedBlue
+%infotypeVAR03 = imagegroup indep
+%textVAR04 = Are the images you want to use to be loaded straight from a Load Images module, or are they being produced by the pipeline? 
+%choiceVAR04 = Load Images module
+%choiceVAR04 = Pipeline
+%inputtypeVAR04 = popupmenu
+%%%VariableRevisionNumber = 3

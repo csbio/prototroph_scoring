@@ -1,0 +1,17 @@
+%textVAR01 = What did you call the objects you want to relabel?
+%infotypeVAR01 = objectgroup
+%inputtypeVAR01 = popupmenu
+%textVAR02 = What do you want to call the relabeled objects?
+%defaultVAR02 = RelabeledObjects
+%infotypeVAR02 = objectgroup indep
+%textVAR03 = Would you like to Unify or Split these objects?
+%choiceVAR03 = Unify
+%choiceVAR03 = Split
+%inputtypeVAR03 = popupmenu
+%textVAR04 = For ''Unify'' option, what is the distance within which objects should be unified?
+%defaultVAR04 = 0
+%textVAR05 = For ''Unify'' option, Grayscale image the intensities of which are used to determine whether to merge (optional, see help). Select ''None''if you do not want to use this option.
+%infotypeVAR05 = imagegroup
+%defaultVAR05 = None
+%inputtypeVAR05 = popupmenu custom
+%%%VariableRevisionNumber = 1

@@ -1,0 +1,545 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/CellProfiler/!svn/ver/7515/branches/release_7184/Modules
+END
+Morph.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/CellProfiler/!svn/ver/7502/branches/release_7184/Modules/Morph.m
+END
+RescaleIntensity.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/CellProfiler/!svn/ver/7502/branches/release_7184/Modules/RescaleIntensity.m
+END
+MeasureImageGranularity.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/CellProfiler/!svn/ver/7502/branches/release_7184/Modules/MeasureImageGranularity.m
+END
+DisplayImageHistogram.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/DisplayImageHistogram.m
+END
+DICTransform.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/CellProfiler/!svn/ver/7501/branches/release_7184/Modules/DICTransform.m
+END
+CorrectIllumination_Apply.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/CorrectIllumination_Apply.m
+END
+SmoothOrEnhance.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/SmoothOrEnhance.m
+END
+MaskImage.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/MaskImage.m
+END
+CreateWebPage.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/CreateWebPage.m
+END
+IdentifySecPropagateSubfunction.mexglx
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/IdentifySecPropagateSubfunction.mexglx
+END
+CorrectIllumination_Calculate.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/CorrectIllumination_Calculate.m
+END
+OverlayOutlines.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/OverlayOutlines.m
+END
+IdentifySecPropagateSubfunction.mexmac
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/IdentifySecPropagateSubfunction.mexmac
+END
+CalculateMath.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/CellProfiler/!svn/ver/7501/branches/release_7184/Modules/CalculateMath.m
+END
+SpeedUpCellProfiler.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/CellProfiler/!svn/ver/7502/branches/release_7184/Modules/SpeedUpCellProfiler.m
+END
+MeasureImageAreaOccupied.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/CellProfiler/!svn/ver/7502/branches/release_7184/Modules/MeasureImageAreaOccupied.m
+END
+MakeProjection.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/CellProfiler/!svn/ver/7502/branches/release_7184/Modules/MakeProjection.m
+END
+DisplayMeasurement.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/DisplayMeasurement.m
+END
+IdentifySecPropagateSubfunction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/IdentifySecPropagateSubfunction.cpp
+END
+PauseCellProfiler.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/CellProfiler/!svn/ver/7502/branches/release_7184/Modules/PauseCellProfiler.m
+END
+sample_sub.mexmaci
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/sample_sub.mexmaci
+END
+sample_sub.mexw32
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/sample_sub.mexw32
+END
+Restart.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/Restart.m
+END
+ClassifyObjects.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/ClassifyObjects.m
+END
+InvertForPrinting.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/InvertForPrinting.m
+END
+CalculateImageOverlap.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/CellProfiler/!svn/ver/7501/branches/release_7184/Modules/CalculateImageOverlap.m
+END
+Exclude.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/Exclude.m
+END
+Align.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/CellProfiler/!svn/ver/7500/branches/release_7184/Modules/Align.m
+END
+ImageMath.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/CellProfiler/!svn/ver/7501/branches/release_7184/Modules/ImageMath.m
+END
+FlipAndRotate.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/FlipAndRotate.m
+END
+Tile.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/Tile.m
+END
+Resize.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/Resize.m
+END
+MeasureCorrelation.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/CellProfiler/!svn/ver/7502/branches/release_7184/Modules/MeasureCorrelation.m
+END
+GrayToColor.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/CellProfiler/!svn/ver/7495/branches/release_7184/Modules/GrayToColor.m
+END
+IdentifyPrimLoG.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/IdentifyPrimLoG.m
+END
+ExportToExcel.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/CellProfiler/!svn/ver/7501/branches/release_7184/Modules/ExportToExcel.m
+END
+LoadImageDirectory.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/CellProfiler/!svn/ver/7501/branches/release_7184/Modules/LoadImageDirectory.m
+END
+sample_sub.mexmac
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/sample_sub.mexmac
+END
+Combine.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/CellProfiler/!svn/ver/7501/branches/release_7184/Modules/Combine.m
+END
+MeasureImageQuality.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/CellProfiler/!svn/ver/7502/branches/release_7184/Modules/MeasureImageQuality.m
+END
+TrackObjects.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/CellProfiler/!svn/ver/7502/branches/release_7184/Modules/TrackObjects.m
+END
+MeasureTexture.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/CellProfiler/!svn/ver/7502/branches/release_7184/Modules/MeasureTexture.m
+END
+IdentifySecondary.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/IdentifySecondary.m
+END
+DisplayHistogram.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/DisplayHistogram.m
+END
+SaveImages.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/CellProfiler/!svn/ver/7515/branches/release_7184/Modules/SaveImages.m
+END
+ConvertToImage.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/ConvertToImage.m
+END
+SubtractBackground.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/CellProfiler/!svn/ver/7502/branches/release_7184/Modules/SubtractBackground.m
+END
+CreateBatchFiles.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/CreateBatchFiles.m
+END
+FindEdges.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/CellProfiler/!svn/ver/7501/branches/release_7184/Modules/FindEdges.m
+END
+MeasureObjectNeighbors.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/CellProfiler/!svn/ver/7502/branches/release_7184/Modules/MeasureObjectNeighbors.m
+END
+GroupMovieFrames.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/GroupMovieFrames.m
+END
+DifferentiateStains.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/DifferentiateStains.m
+END
+RenameOrRenumberFiles.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/CellProfiler/!svn/ver/7502/branches/release_7184/Modules/RenameOrRenumberFiles.m
+END
+KeepLargestObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/CellProfiler/!svn/ver/7501/branches/release_7184/Modules/KeepLargestObject.m
+END
+DisplayDataOnImage.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/DisplayDataOnImage.m
+END
+ExpandOrShrink.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/ExpandOrShrink.m
+END
+IdentifySecPropagateSubfunction.mexa64
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/IdentifySecPropagateSubfunction.mexa64
+END
+EditObjectsManually.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/EditObjectsManually.m
+END
+IdentifySecPropagateSubfunction.dll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/IdentifySecPropagateSubfunction.dll
+END
+CalculateStatistics.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/CellProfiler/!svn/ver/7501/branches/release_7184/Modules/CalculateStatistics.m
+END
+IdentifyTertiarySubregion.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/IdentifyTertiarySubregion.m
+END
+FilterByObjectMeasurement.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/CellProfiler/!svn/ver/7501/branches/release_7184/Modules/FilterByObjectMeasurement.m
+END
+MeasureRadialDistribution.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/CellProfiler/!svn/ver/7477/branches/release_7184/Modules/MeasureRadialDistribution.m
+END
+IdentifySecPropagateSubfunction.mexmaci
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/IdentifySecPropagateSubfunction.mexmaci
+END
+IdentifyObjectsInGrid.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/IdentifyObjectsInGrid.m
+END
+LoadText.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/LoadText.m
+END
+LoadSingleImage.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/CellProfiler/!svn/ver/7501/branches/release_7184/Modules/LoadSingleImage.m
+END
+IdentifySecPropagateSubfunction.mexw64
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/IdentifySecPropagateSubfunction.mexw64
+END
+DisplayGridInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/DisplayGridInfo.m
+END
+SplitOrSpliceMovie.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/SplitOrSpliceMovie.m
+END
+MeasureObjectIntensity.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/CellProfiler/!svn/ver/7502/branches/release_7184/Modules/MeasureObjectIntensity.m
+END
+DefineGrid.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/DefineGrid.m
+END
+IdentifyPrimManual.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/IdentifyPrimManual.m
+END
+SendEmail.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/SendEmail.m
+END
+MeasureObjectAreaShape.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/CellProfiler/!svn/ver/7502/branches/release_7184/Modules/MeasureObjectAreaShape.m
+END
+ApplyThreshold.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/ApplyThreshold.m
+END
+Crop.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/Crop.m
+END
+ColorToGray.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/ColorToGray.m
+END
+LoadImages.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/LoadImages.m
+END
+LabelImages.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/LabelImages.m
+END
+ClassifyObjectsByTwoMeasurements.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/ClassifyObjectsByTwoMeasurements.m
+END
+FlagImageForQC.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/CellProfiler/!svn/ver/7501/branches/release_7184/Modules/FlagImageForQC.m
+END
+ExportToDatabase.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/ExportToDatabase.m
+END
+IdentifyPrimAutomatic.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/CellProfiler/!svn/ver/7497/branches/release_7184/Modules/IdentifyPrimAutomatic.m
+END
+MeasureImageIntensity.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/CellProfiler/!svn/ver/7502/branches/release_7184/Modules/MeasureImageIntensity.m
+END
+Relate.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/CellProfiler/!svn/ver/7509/branches/release_7184/Modules/Relate.m
+END
+PlaceAdjacent.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/PlaceAdjacent.m
+END
+RelabelObjects.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/CellProfiler/!svn/ver/7502/branches/release_7184/Modules/RelabelObjects.m
+END
+sample_sub.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/CellProfiler/!svn/ver/7472/branches/release_7184/Modules/sample_sub.c
+END
+FileNameMetadata.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/CellProfiler/!svn/ver/7501/branches/release_7184/Modules/FileNameMetadata.m
+END

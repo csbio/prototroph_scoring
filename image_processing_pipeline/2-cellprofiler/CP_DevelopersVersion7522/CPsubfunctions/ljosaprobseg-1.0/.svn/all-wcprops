@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0
+END
+rwalk.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/rwalk.c
+END
+seed.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/seed.c
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/LICENSE
+END
+rwalk1.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/rwalk1.c
+END
+ljosaprobseg.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/ljosaprobseg.m
+END
+rwalk.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/rwalk.h
+END
+demo_ljosaprobseg.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/demo_ljosaprobseg.m
+END
+rwalkpthread.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/rwalkpthread.c
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/config.h
+END
+rwalkmex.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/rwalkmex.c
+END
+ljosaprobseg.mexmaci
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/ljosaprobseg.mexmaci
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/README
+END

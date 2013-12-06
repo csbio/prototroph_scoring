@@ -1,0 +1,33 @@
+%textVAR01 = Enter the pathname to the folders containing images:
+%defaultVAR01 = .
+%textVAR02 = Enter the text that the folders have in common:
+%defaultVAR02 = *
+%textVAR03 = Analyze all subfolders within each folder?
+%choiceVAR03 = No
+%choiceVAR03 = Yes
+%inputtypeVAR03 = popupmenu
+%textVAR04 = How do you want to load these files?
+%choiceVAR04 = Exact match
+%choiceVAR04 = Regular expressions
+%inputtypeVAR04 = popupmenu
+%textVAR05 = Enter the text that one type of file has in common:
+%defaultVAR05 = *
+%textVAR06 = What kind of projection would you like to make?
+%choiceVAR06 = Average
+%choiceVAR06 = Maximum
+%inputtypeVAR06 = popupmenu
+%textVAR07 = Would you like to check images for a QCFlag (loaded earlier in a load text module) and bypass images possessing a flag in calculation of the illumination correction function?
+%choiceVAR07 = No
+%choiceVAR07 = Yes
+%infotypeVAR07 = imagegroup indep
+%inputtypeVAR07 = popupmenu
+%textVAR08 = What did you call the loaded text that contains the QCFlag? (This is only used for QCFlag=YES)
+%defaultVAR08 = QCFlag
+%textVAR09 = How many images are in each directory you are loading? (This is only used for QCFlag=YES)
+%defaultVAR09 = 288
+%textVAR10 = How many channels are there each directory you are loading? (This is only used for QCFlag=YES)
+%defaultVAR10 = 3
+%textVAR11 = What do you want to call the projected image?
+%defaultVAR11 = ProjectedBlue
+%infotypeVAR11 = imagegroup indep
+%%%VariableRevisionNumber = 2

@@ -1,0 +1,8 @@
+%textVAR01 = What did you call the image?
+%infotypeVAR01 = imagegroup
+%inputtypeVAR01 = popupmenu
+%textVAR02 = For the filename, enter the regular expression to use to capture the fields. Type "Do not use" to ignore.
+%defaultVAR02 = ^(?<Plate>.+)_(?<WellRow>[A-P])(?<WellColumn>[0-9]{1,2})_(?<Site>[0-9])
+%textVAR03 = For the pathname, enter the regular expression to use to capture the fields. Separate each directory-specific field using vertical lines (i.e, | ). Type "Do not use" to ignore.
+%defaultVAR03 = Do not use
+%%%VariableRevisionNumber = 3

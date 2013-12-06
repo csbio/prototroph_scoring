@@ -1,0 +1,15 @@
+%textVAR01 = What did you call the objects you want to filter?
+%infotypeVAR01 = objectgroup
+%inputtypeVAR01 = popupmenu
+%textVAR02 = What do you want to call the remaining objects?
+%defaultVAR02 = FilteredObjects
+%infotypeVAR02 = objectgroup indep
+%textVAR03 = What do you want to call the outlines of the remaining objects (optional)?
+%defaultVAR03 = Do not use
+%infotypeVAR03 = outlinegroup indep
+%textVAR04 = Do you want to renumber the objects created by this module or retain the original numbering?
+%defaultVAR04 = Renumber
+%choiceVAR04 = Renumber
+%choiceVAR04 = Retain
+%inputtypeVAR04 = popupmenu
+%%%VariableRevisionNumber = 2

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/CellProfiler/!svn/ver/7472/branches/release_7184/DataTools
+END
+PlotMeasurement.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/CellProfiler/!svn/ver/7472/branches/release_7184/DataTools/PlotMeasurement.m
+END
+Histogram.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/CellProfiler/!svn/ver/7472/branches/release_7184/DataTools/Histogram.m
+END
+ExportLocations.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/CellProfiler/!svn/ver/7472/branches/release_7184/DataTools/ExportLocations.m
+END
+ShowPlateMapData.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/CellProfiler/!svn/ver/7472/branches/release_7184/DataTools/ShowPlateMapData.m
+END
+MeasurementCalculator.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/CellProfiler/!svn/ver/7472/branches/release_7184/DataTools/MeasurementCalculator.m
+END
+CalculateStatisticsDataTool.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/CellProfiler/!svn/ver/7472/branches/release_7184/DataTools/CalculateStatisticsDataTool.m
+END
+MergeOutputFiles.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/CellProfiler/!svn/ver/7472/branches/release_7184/DataTools/MergeOutputFiles.m
+END
+ViewData.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/CellProfiler/!svn/ver/7472/branches/release_7184/DataTools/ViewData.m
+END
+ConvertBatchFiles.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/CellProfiler/!svn/ver/7472/branches/release_7184/DataTools/ConvertBatchFiles.m
+END
+SubmitBatch.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/CellProfiler/!svn/ver/7472/branches/release_7184/DataTools/SubmitBatch.m
+END
+ExportDatabase.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/CellProfiler/!svn/ver/7472/branches/release_7184/DataTools/ExportDatabase.m
+END
+DataLayout.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/CellProfiler/!svn/ver/7472/branches/release_7184/DataTools/DataLayout.m
+END
+CalculateRatiosDataTool.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/CellProfiler/!svn/ver/7472/branches/release_7184/DataTools/CalculateRatiosDataTool.m
+END
+GenerateHistogramMovie.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/CellProfiler/!svn/ver/7472/branches/release_7184/DataTools/GenerateHistogramMovie.m
+END
+ShowDataOnImage.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/CellProfiler/!svn/ver/7472/branches/release_7184/DataTools/ShowDataOnImage.m
+END
+ExportData.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/CellProfiler/!svn/ver/7472/branches/release_7184/DataTools/ExportData.m
+END
+FlagImageByMeasurement.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/CellProfiler/!svn/ver/7472/branches/release_7184/DataTools/FlagImageByMeasurement.m
+END
+ClearData.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/CellProfiler/!svn/ver/7472/branches/release_7184/DataTools/ClearData.m
+END
+AddData.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/CellProfiler/!svn/ver/7472/branches/release_7184/DataTools/AddData.m
+END

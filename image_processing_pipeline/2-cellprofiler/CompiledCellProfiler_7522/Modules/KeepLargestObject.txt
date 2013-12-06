@@ -1,0 +1,10 @@
+%textVAR01 = What did you call the primary objects?
+%infotypeVAR01 = objectgroup
+%inputtypeVAR01 = popupmenu
+%textVAR02 = What did you call the secondary objects?
+%infotypeVAR02 = objectgroup
+%inputtypeVAR02 = popupmenu
+%textVAR03 = What do you want to call the largest primary objects?
+%defaultVAR03 = LargestObjects
+%infotypeVAR03 = objectgroup indep
+%%%VariableRevisionNumber = 1

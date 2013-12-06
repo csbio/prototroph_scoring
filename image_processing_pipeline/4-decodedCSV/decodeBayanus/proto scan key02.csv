@@ -1,0 +1,319 @@
+1	glucose	ammonium05	003	2	003	2	001	1	003	1	001	1
+1	glucose	ammonium06	003	1	003	1	001	2	003	2	001	2
+1	glucose	sertraline 15 uM	002	2	002	2	002	2	002	1	002	2
+1	glucose	sertraline 20 uM	002	1	002	1	002	1	002	2	003	2
+1	glucose	ammonium toxicity low	001	2	001	2	003	2	001	2	003	1
+1	glucose	ammonium toxicity high	001	1	001	1	003	1	001	1	002	1
+1	ribose	ammonium	007	1	007	1	004	1	006	2	006	1
+1	ribose	proline	006	2	006	1	005	2	006	1	004	2
+1	ribose	glutamate	005	2	005	1	004	2	007	1	006	2
+1	ribose	glutamine	006	1	006	2	006	1	005	1	005	2
+1	ribose	arginine	004	2	004	2	006	2	004	2	004	1
+1	ribose	urea	005	1	005	2	005	1	005	2	007	1
+1	ribose	allantoin	004	1	004	1	007	1	004	1	005	1
+1	glycerol	ammonium	010	2	010	1	008	1	010	1	009	1
+1	glycerol	proline	009	2	009	2	008	2	009	2	010	1
+1	glycerol	glutamate	010	1	010	2	007	2	010	2	008	2
+1	glycerol	glutamine	009	1	009	1	009	1	009	1	007	2
+1	glycerol	arginine	008	2	008	2	009	2	008	2	009	2
+1	glycerol	urea	007	2	007	2	010	2	007	2	010	2
+1	glycerol	allantoin	008	1	008	1	010	1	008	1	008	1
+2	glucose	ammonium05	013	1	013	2	011	2	013	2	013	2
+2	glucose	ammonium06	013	2	013	1	011	1	013	1	013	1
+2	glucose	sertraline 15 uM	012	1	012	2	012	1	012	1	012	1
+2	glucose	sertraline 20 uM	012	2	012	1	012	2	012	2	011	1
+2	glucose	ammonium toxicity low	011	1	011	2	013	1	011	1	012	2
+2	glucose	ammonium toxicity high	011	2	011	1	013	2	011	2	011	2
+2	ribose	ammonium	016	2	016	2	014	2	015	2	016	1
+2	ribose	proline	017	1	017	1	014	1	015	1	016	2
+2	ribose	glutamate	015	2	015	1	016	1	017	1	014	2
+2	ribose	glutamine	016	1	016	1	015	1	014	2	017	1
+2	ribose	arginine	014	2	014	1	016	2	016	2	015	1
+2	ribose	urea	015	1	015	2	015	2	014	1	014	1
+2	ribose	allantoin	014	1	014	2	017	1	016	1	015	2
+2	glycerol	ammonium	020	2	020	2	017	2	020	2	017	2
+2	glycerol	proline	019	2	019	2	019	1	018	2	020	1
+2	glycerol	glutamate	020	1	020	1	018	2	020	1	018	1
+2	glycerol	glutamine	018	2	018	2	020	2	018	1	019	2
+2	glycerol	arginine	019	1	019	1	018	1	019	2	018	2
+2	glycerol	urea	017	2	017	2	019	2	019	1	019	1
+2	glycerol	allantoin	018	1	018	1	020	1	017	2	020	2
+3	glucose	ammonium05	023	1	023	1	021	2	023	1	022	2
+3	glucose	ammonium06	023	2	023	2	021	1	023	2	022	1
+3	glucose	sertraline 15 uM	022	1	022	2	022	2	022	1	021	2
+3	glucose	sertraline 20 uM	022	2	022	1	022	1	022	2	021	1
+3	glucose	ammonium toxicity low	021	1	021	2	023	1	021	2	023	1
+3	glucose	ammonium toxicity high	021	2	021	1	023	2	021	1	023	2
+3	ribose	ammonium	026	2	026	1	025	1	026	1	025	2
+3	ribose	proline	027	1	027	1	024	1	027	1	024	1
+3	ribose	glutamate	025	2	025	2	025	2	026	2	026	1
+3	ribose	glutamine	026	1	026	2	024	2	024	1	027	1
+3	ribose	arginine	024	2	024	2	027	1	024	2	026	2
+3	ribose	urea	025	1	025	1	026	1	025	2	024	2
+3	ribose	allantoin	024	1	024	1	026	2	025	1	025	1
+3	glycerol	ammonium	030	2	030	1	028	1	030	1	027	2
+3	glycerol	proline	029	2	029	2	028	2	029	2	028	2
+3	glycerol	glutamate	030	1	030	2	027	2	030	2	028	1
+3	glycerol	glutamine	028	2	028	1	030	1	028	1	030	1
+3	glycerol	arginine	029	1	029	1	029	1	028	2	029	2
+3	glycerol	urea	027	2	027	2	030	2	027	2	030	2
+3	glycerol	allantoin	028	1	028	2	029	2	029	1	029	1
+4	glucose	ammonium05	033	1	031	2	033	1	031	2	033	1
+4	glucose	ammonium06	033	2	031	1	033	2	031	1	033	2
+4	glucose	sertraline 15 uM	032	1	032	2	032	2	032	2	032	1
+4	glucose	sertraline 20 uM	032	2	032	1	032	1	032	1	032	2
+4	glucose	ammonium toxicity low	031	1	033	2	031	2	033	2	031	2
+4	glucose	ammonium toxicity high	031	2	033	1	031	1	033	1	031	1
+4	ribose	ammonium	036	2	036	1	035	1	035	2	035	2
+4	ribose	proline	037	1	035	2	034	2	037	1	034	1
+4	ribose	glutamate	035	2	034	1	037	1	034	1	036	2
+4	ribose	glutamine	036	1	036	2	036	1	034	2	037	1
+4	ribose	arginine	034	2	034	2	036	2	035	1	036	1
+4	ribose	urea	035	1	037	1	034	1	036	2	035	1
+4	ribose	allantoin	034	1	035	1	035	2	036	1	034	2
+4	glycerol	ammonium	040	2	037	2	040	2	038	1	040	1
+4	glycerol	proline	039	2	038	2	040	1	037	2	040	2
+4	glycerol	glutamate	040	1	038	1	039	1	038	2	039	2
+4	glycerol	glutamine	038	1	039	2	039	2	039	1	039	1
+4	glycerol	arginine	039	1	039	1	038	2	040	1	038	1
+4	glycerol	urea	037	2	040	2	037	2	040	2	037	2
+4	glycerol	allantoin	038	2	040	1	038	1	039	2	038	2
+5	glucose	ammonium05	043	1	041	2	043	2	041	2	043	1
+5	glucose	ammonium06	043	2	041	1	043	1	041	1	043	2
+5	glucose	sertraline 15 uM	042	1	042	2	042	1	042	1	042	2
+5	glucose	sertraline 20 uM	042	2	042	1	042	2	042	2	042	1
+5	glucose	ammonium toxicity low	041	1	043	2	041	1	043	1	041	2
+5	glucose	ammonium toxicity high	041	2	043	1	041	2	043	2	041	1
+5	ribose	ammonium	046	2	045	2	044	2	044	2	046	1
+5	ribose	proline	047	1	045	1	047	1	045	1	045	2
+5	ribose	glutamate	045	2	046	2	045	2	047	1	044	2
+5	ribose	glutamine	046	1	046	1	045	1	046	2	047	1
+5	ribose	arginine	044	2	044	1	046	1	045	2	045	1
+5	ribose	urea	045	1	047	1	044	1	044	1	044	1
+5	ribose	allantoin	044	1	044	2	046	2	046	1	046	2
+5	glycerol	ammonium	050	2	047	2	050	2	048	1	050	1
+5	glycerol	proline	049	2	048	2	049	2	049	1	048	2
+5	glycerol	glutamate	050	1	048	1	050	1	047	2	050	2
+5	glycerol	glutamine	048	2	049	2	048	2	050	1	048	1
+5	glycerol	arginine	049	1	049	1	049	1	048	2	049	2
+5	glycerol	urea	047	2	050	2	048	1	049	2	049	1
+5	glycerol	allantoin	048	1	050	1	047	2	050	2	047	2
+6	glucose	ammonium05	053	1	051	2	052	1	052	1	052	1
+6	glucose	ammonium06	053	2	051	1	052	2	052	2	052	2
+6	glucose	sertraline 15 uM	052	1	052	1	053	1	051	1	051	2
+6	glucose	sertraline 20 uM	052	2	052	2	053	2	051	2	051	1
+6	glucose	ammonium toxicity low	051	1	053	1	051	2	053	2	053	1
+6	glucose	ammonium toxicity high	051	2	053	2	051	1	053	1	053	2
+6	ribose	ammonium	056	2	056	1	056	1	054	2	056	2
+6	ribose	proline	057	1	055	1	055	1	055	2	055	2
+6	ribose	glutamate	055	2	057	1	054	1	056	2	055	1
+6	ribose	glutamine	056	1	055	2	054	2	057	1	054	1
+6	ribose	arginine	054	2	054	1	057	1	054	1	057	1
+6	ribose	urea	055	1	056	2	055	2	056	1	054	2
+6	ribose	allantoin	054	1	054	2	056	2	055	1	056	1
+6	glycerol	ammonium	060	2	057	2	059	2	059	1	058	2
+6	glycerol	proline	059	2	058	2	060	2	058	1	060	1
+6	glycerol	glutamate	060	1	058	1	060	1	057	2	060	2
+6	glycerol	glutamine	058	2	059	2	058	2	060	1	058	1
+6	glycerol	arginine	059	1	059	1	059	1	058	2	059	2
+6	glycerol	urea	057	2	060	2	058	1	059	2	059	1
+6	glycerol	allantoin	058	1	060	1	057	2	060	2	057	2
+7	glucose	ammonium05	063	1	061	1	063	2	061	2	062	2
+7	glucose	ammonium06	063	2	061	2	063	1	061	1	062	1
+7	glucose	sertraline 15 uM	062	1	062	1	062	2	062	2	063	2
+7	glucose	sertraline 20 uM	062	2	062	2	062	1	062	1	063	1
+7	glucose	ammonium toxicity low	061	1	063	1	061	2	063	2	061	1
+7	glucose	ammonium toxicity high	061	2	063	2	061	1	063	1	061	2
+7	ribose	ammonium	066	2	066	2	065	1	065	2	066	1
+7	ribose	proline	067	1	066	1	064	2	067	1	064	2
+7	ribose	glutamate	065	2	064	1	066	2	065	1	065	1
+7	ribose	glutamine	066	1	067	1	064	1	066	2	066	2
+7	ribose	arginine	064	2	065	2	066	1	064	2	067	1
+7	ribose	urea	065	1	064	2	067	1	064	1	064	1
+7	ribose	allantoin	064	1	065	1	065	2	066	1	065	2
+7	glycerol	ammonium	070	2	067	2	070	2	068	1	070	1
+7	glycerol	proline	069	2	069	2	069	1	068	2	069	2
+7	glycerol	glutamate	070	1	068	1	070	1	067	2	070	2
+7	glycerol	glutamine	068	2	069	1	068	2	070	1	068	1
+7	glycerol	arginine	069	1	070	1	067	2	070	2	067	2
+7	glycerol	urea	067	2	070	2	068	1	069	2	069	1
+7	glycerol	allantoin	068	1	068	2	069	2	069	1	068	2
+8	glucose	ammonium05	073	1	073	2	072	2	072	2	072	1
+8	glucose	ammonium06	073	2	073	1	072	1	072	1	073	1
+8	glucose	sertraline 15 uM	072	1	071	2	073	1	071	1	072	2
+8	glucose	sertraline 20 uM	072	2	071	1	073	2	071	2	073	2
+8	glucose	ammonium toxicity low	071	1	072	2	071	1	073	1	071	2
+8	glucose	ammonium toxicity high	071	2	072	1	071	2	073	2	071	1
+8	ribose	ammonium	076	2	076	1	074	2	077	1	074	1
+8	ribose	proline	077	1	075	1	075	2	076	1	074	2
+8	ribose	glutamate	075	2	076	2	075	1	075	2	076	1
+8	ribose	glutamine	076	1	075	2	076	1	074	2	075	2
+8	ribose	arginine	074	2	074	2	077	1	074	1	075	1
+8	ribose	urea	075	1	077	1	074	1	076	2	077	1
+8	ribose	allantoin	074	1	074	1	076	2	075	1	076	2
+8	glycerol	ammonium	080	2	077	2	080	2	078	1	078	2
+8	glycerol	proline	079	2	078	2	079	2	079	1	078	1
+8	glycerol	glutamate	080	1	078	1	080	1	077	2	079	1
+8	glycerol	glutamine	078	2	079	2	078	2	080	1	080	1
+8	glycerol	arginine	079	1	079	1	079	1	078	2	080	2
+8	glycerol	urea	077	2	080	2	077	2	080	2	079	2
+8	glycerol	allantoin	078	1	080	1	078	1	079	2	077	2
+9	glucose	ammonium05	083	1	081	2	083	1	081	1	082	1
+9	glucose	ammonium06	083	2	081	1	083	2	081	2	081	2
+9	glucose	sertraline 15 uM	082	1	082	1	081	2	083	2	082	2
+9	glucose	sertraline 20 uM	082	2	082	2	081	1	083	1	083	1
+9	glucose	ammonium toxicity low	081	1	083	1	082	2	082	2	083	2
+9	glucose	ammonium toxicity high	081	2	083	2	082	1	082	1	081	1
+9	ribose	ammonium	086	2	086	2	085	1	085	2	084	2
+9	ribose	proline	087	1	085	2	087	1	090	2	084	1
+9	ribose	glutamate	085	2	087	1	084	1	086	2	086	2
+9	ribose	glutamine	086	1	086	1	084	2	087	1	086	1
+9	ribose	arginine	084	2	085	1	086	2	084	1	085	2
+9	ribose	urea	085	1	084	1	085	2	084	2	087	1
+9	ribose	allantoin	084	1	084	2	086	1	085	1	085	1
+9	glycerol	ammonium	090	2	087	2	090	2	088	1	088	1
+9	glycerol	proline	089	2	088	2	089	2	089	1	090	1
+9	glycerol	glutamate	090	1	088	1	090	1	087	2	087	2
+9	glycerol	glutamine	088	2	089	2	088	2	090	1	090	2
+9	glycerol	arginine	089	1	089	1	089	1	088	2	088	2
+9	glycerol	urea	087	2	090	2	087	2	086	1	089	1
+9	glycerol	allantoin	088	1	090	1	088	1	089	2	089	2
+10	glucose	ammonium05	093	1	091	2	093	2	091	2	091	2
+10	glucose	ammonium06	093	2	091	1	093	1	091	1	091	1
+10	glucose	sertraline 15 uM	092	1	092	1	092	2	092	1	093	2
+10	glucose	sertraline 20 uM	092	2	092	2	092	1	092	2	093	1
+10	glucose	ammonium toxicity low	091	1	093	2	091	2	093	2	092	1
+10	glucose	ammonium toxicity high	091	2	093	1	091	1	093	1	092	2
+10	ribose	ammonium	096	2	096	1	095	1	095	2	095	1
+10	ribose	proline	097	1	095	2	096	1	094	2	094	1
+10	ribose	glutamate	095	2	094	1	096	2	095	1	095	2
+10	ribose	glutamine	096	1	096	2	094	2	097	1	096	1
+10	ribose	arginine	094	2	095	1	095	2	096	1	096	2
+10	ribose	urea	095	1	097	1	094	1	096	2	097	1
+10	ribose	allantoin	094	1	094	2	097	1	094	1	094	2
+10	glycerol	ammonium	100	2	097	2	100	2	098	1	098	2
+10	glycerol	proline	099	2	098	2	099	2	099	1	100	2
+10	glycerol	glutamate	100	1	098	1	100	1	097	2	097	2
+10	glycerol	glutamine	098	2	099	2	098	2	100	1	100	1
+10	glycerol	arginine	099	1	099	1	099	1	098	2	099	1
+10	glycerol	urea	097	2	100	2	097	2	100	2	099	2
+10	glycerol	allantoin	098	1	100	1	098	1	099	2	098	1
+11	glucose	ammonium05	103	1	101	2	103	1	101	1	101	2
+11	glucose	ammonium06	103	2	101	1	103	2	101	2	101	1
+11	glucose	sertraline 15 uM	102	1	102	2	102	1	102	1	102	2
+11	glucose	sertraline 20 uM	102	2	102	1	102	2	102	2	102	1
+11	glucose	ammonium toxicity low	101	1	103	1	101	2	103	2	103	1
+11	glucose	ammonium toxicity high	101	2	103	2	101	1	103	1	103	2
+11	ribose	ammonium	106	2	106	1	104	2	104	1	105	2
+11	ribose	proline	107	1	105	2	105	2	107	1	106	1
+11	ribose	glutamate	105	2	107	1	104	1	104	2	104	1
+11	ribose	glutamine	106	1	106	2	105	1	106	2	106	2
+11	ribose	arginine	104	2	105	1	106	1	105	2	104	2
+11	ribose	urea	105	1	104	1	107	1	105	1	105	1
+11	ribose	allantoin	104	1	104	2	106	2	106	1	107	1
+11	glycerol	ammonium	110	2	107	2	110	2	108	1	108	2
+11	glycerol	proline	109	2	108	2	109	2	109	1	107	2
+11	glycerol	glutamate	110	1	108	1	110	1	107	2	108	1
+11	glycerol	glutamine	108	2	109	2	108	2	110	1	110	2
+11	glycerol	arginine	109	1	109	1	109	1	108	2	109	1
+11	glycerol	urea	107	2	110	2	108	1	109	2	109	2
+11	glycerol	allantoin	108	1	110	1	107	2	110	2	110	1
+12	glucose	ammonium05	113	1	111	2	113	2	111	2	111	2
+12	glucose	ammonium06	113	2	111	1	113	1	111	1	112	1
+12	glucose	sertraline 15 uM	112	1	112	2	112	1	112	1	113	2
+12	glucose	sertraline 20 uM	112	2	112	1	112	2	112	2	111	1
+12	glucose	ammonium toxicity low	111	1	113	2	111	1	113	1	113	1
+12	glucose	ammonium toxicity high	111	2	113	1	111	2	113	2	112	2
+12	ribose	ammonium	116	2	116	1	114	2	115	2	117	1
+12	ribose	proline	117	1	115	2	116	1	116	2	116	2
+12	ribose	glutamate	115	2	117	1	114	1	115	1	114	2
+12	ribose	glutamine	116	1	116	2	115	1	114	1	114	1
+12	ribose	arginine	114	2	114	2	116	2	117	1	115	2
+12	ribose	urea	115	1	114	1	117	1	116	1	116	1
+12	ribose	allantoin	114	1	115	1	115	2	114	2	115	1
+12	glycerol	ammonium	120	2	117	2	120	2	118	1	120	1
+12	glycerol	proline	119	2	118	2	119	2	119	1	118	1
+12	glycerol	glutamate	120	1	118	1	120	1	117	2	119	1
+12	glycerol	glutamine	118	2	119	2	118	2	120	1	120	2
+12	glycerol	arginine	119	1	119	1	119	1	118	2	119	2
+12	glycerol	urea	117	2	120	2	118	1	119	2	117	2
+12	glycerol	allantoin	118	1	120	1	117	2	120	2	118	2
+13	glucose	ammonium05	123	2	121	1	123	1	121	1	121	1
+13	glucose	ammonium06	123	1	121	2	123	2	121	2	121	2
+13	glucose	sertraline 15 uM	121	1	123	2	121	1	123	1	123	2
+13	glucose	sertraline 20 uM	121	2	123	1	121	2	123	2	123	1
+13	glucose	ammonium toxicity low	122	1	122	2	122	1	122	1	122	1
+13	glucose	ammonium toxicity high	122	2	122	1	122	2	122	2	122	2
+13	ribose	ammonium	126	2	124	2	126	2	125	2	127	1
+13	ribose	proline	127	1	124	1	127	1	125	1	125	1
+13	ribose	glutamate	125	2	125	2	126	1	126	1	124	2
+13	ribose	glutamine	126	1	125	1	125	2	127	1	126	1
+13	ribose	arginine	124	2	126	2	124	2	124	2	124	1
+13	ribose	urea	125	1	126	1	125	1	126	2	126	2
+13	ribose	allantoin	124	1	127	1	124	1	124	1	125	2
+13	glycerol	ammonium	130	2	127	2	130	2	128	1	128	1
+13	glycerol	proline	129	2	128	2	130	1	127	2	128	2
+13	glycerol	glutamate	130	1	128	1	129	2	129	1	129	2
+13	glycerol	glutamine	128	2	129	2	129	1	128	2	127	2
+13	glycerol	arginine	129	1	129	1	128	2	130	1	130	2
+13	glycerol	urea	127	2	130	2	128	1	129	2	129	1
+13	glycerol	allantoin	128	1	130	1	127	2	130	2	130	1
+14	glucose	ammonium05	133	1	131	2	133	1	131	1	131	2
+14	glucose	ammonium06	133	2	131	1	133	2	131	2	131	1
+14	glucose	sertraline 15 uM	132	1	132	2	132	1	132	1	132	2
+14	glucose	sertraline 20 uM	132	2	132	1	132	2	132	2	132	1
+14	glucose	ammonium toxicity low	131	1	133	2	131	2	133	2	133	1
+14	glucose	ammonium toxicity high	131	2	133	1	131	1	133	1	133	2
+14	ribose	ammonium	136	2	135	1	135	2	136	1	137	1
+14	ribose	proline	137	1	134	1	136	2	135	1	135	2
+14	ribose	glutamate	135	2	135	2	136	1	134	2	134	2
+14	ribose	glutamine	136	1	134	2	137	1	134	1	134	1
+14	ribose	arginine	134	2	136	2	135	1	135	2	135	1
+14	ribose	urea	135	1	136	1	134	2	137	1	136	1
+14	ribose	allantoin	134	1	137	1	134	1	136	2	136	2
+14	glycerol	ammonium	140	2	137	2	140	2	137	2	139	1
+14	glycerol	proline	139	2	138	2	140	1	138	1	138	2
+14	glycerol	glutamate	140	1	138	1	139	2	139	1	140	1
+14	glycerol	glutamine	138	2	139	2	139	1	138	2	139	2
+14	glycerol	arginine	139	1	139	1	138	2	140	1	137	2
+14	glycerol	urea	137	2	140	2	138	1	139	2	140	2
+14	glycerol	allantoin	138	1	140	1	137	2	140	2	138	1
+15	glucose	ammonium05	143	1	141	2	143	2	141	2	141	1
+15	glucose	ammonium06	143	2	141	1	143	1	141	1	141	2
+15	glucose	sertraline 15 uM	142	1	142	2	142	1	142	1	142	2
+15	glucose	sertraline 20 uM	142	2	142	1	142	2	142	2	142	1
+15	glucose	ammonium toxicity low	141	1	143	2	141	2	143	2	143	1
+15	glucose	ammonium toxicity high	141	2	143	1	141	1	143	1	143	2
+15	ribose	ammonium	146	2	145	1	145	2	147	1	146	2
+15	ribose	proline	147	1	144	1	146	2	146	1	147	1
+15	ribose	glutamate	145	2	145	2	146	1	145	2	144	2
+15	ribose	glutamine	146	1	144	2	147	1	145	1	145	1
+15	ribose	arginine	144	2	146	2	145	1	146	2	146	1
+15	ribose	urea	145	1	146	1	144	2	144	2	145	2
+15	ribose	allantoin	144	1	147	1	144	1	144	1	144	1
+15	glycerol	ammonium	150	2	147	2	150	2	148	1	148	1
+15	glycerol	proline	149	2	148	2	150	1	147	2	147	2
+15	glycerol	glutamate	150	1	148	1	149	2	149	1	148	2
+15	glycerol	glutamine	148	2	149	2	149	1	148	2	149	1
+15	glycerol	arginine	149	1	149	1	148	2	150	1	150	1
+15	glycerol	urea	147	2	150	2	148	1	149	2	150	2
+15	glycerol	allantoin	148	1	150	1	147	2	150	2	149	2
+18	glucose	ammonium05	172	2	171	2	173	1	171	1	171	2
+18	glucose	ammonium06	173	1	171	1	172	2	172	1	173	1
+18	glucose	sertraline 15 uM	171	2	172	2	172	1	171	2	171	1
+18	glucose	sertraline 20 uM	172	1	172	1	171	2	173	1	172	1
+18	glucose	ammonium toxicity low	171	1	173	1	171	1	172	2	172	2
+18	ribose	ammonium	177	1	174	1	176	2	175	1	175	1
+18	ribose	proline	176	1	174	2	177	1	174	1	174	1
+18	ribose	glutamate	176	2	175	1	175	2	176	1	177	1
+18	ribose	glutamine	175	1	176	1	175	1	175	2	174	2
+18	ribose	arginine	175	2	175	2	176	1	174	2	175	2
+18	ribose	urea	174	1	177	1	174	1	176	2	176	2
+18	ribose	allantoin	174	2	176	2	174	2	177	1	176	1
+18	glycerol	ammonium	180	1	177	2	180	2	178	1	177	2
+18	glycerol	proline	180	2	178	1	179	2	179	1	178	1
+18	glycerol	glutamate	179	2	178	2	180	1	177	2	178	2
+18	glycerol	glutamine	178	2	180	1	177	2	180	2	180	1
+18	glycerol	arginine	179	1	179	1	178	2	180	1	179	2
+18	glycerol	urea	177	2	180	2	178	1	179	2	179	1
+18	glycerol	allantoin	178	1	179	2	179	1	178	2	180	2

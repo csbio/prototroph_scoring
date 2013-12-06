@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/vlcutils
+END
+set.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/vlcutils/set.h
+END
+progress.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/vlcutils/progress.c
+END
+obintlist.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/vlcutils/obintlist.c
+END
+io.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/vlcutils/io.c
+END
+progress.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/vlcutils/progress.h
+END
+obintlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/vlcutils/obintlist.h
+END
+io.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/vlcutils/io.h
+END
+heap.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/vlcutils/heap.c
+END
+heap.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/vlcutils/heap.h
+END
+bplus.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/vlcutils/bplus.c
+END
+error.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/vlcutils/error.c
+END
+bplus.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/vlcutils/bplus.h
+END
+plist.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/vlcutils/plist.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/vlcutils/Makefile
+END
+error.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/vlcutils/error.h
+END
+plist.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/vlcutils/plist.h
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/vlcutils/LICENSE
+END
+intset.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/vlcutils/intset.c
+END
+intset.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/vlcutils/intset.h
+END
+bitmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/vlcutils/bitmap.c
+END
+mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/vlcutils/mem.c
+END
+bitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/vlcutils/bitmap.h
+END
+test_readline.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/vlcutils/test_readline.c
+END
+readline.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/vlcutils/readline.c
+END
+pgm.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/vlcutils/pgm.c
+END
+mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/vlcutils/mem.h
+END
+test_bplus.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/vlcutils/test_bplus.c
+END
+intlist.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/vlcutils/intlist.c
+END
+readline.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/vlcutils/readline.h
+END
+pgm.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/vlcutils/pgm.h
+END
+intlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/ljosaprobseg-1.0/vlcutils/intlist.h
+END

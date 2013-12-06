@@ -1,0 +1,713 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/CellProfiler/!svn/ver/7520/branches/release_7184/CPsubfunctions
+END
+CPimread.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPimread.m
+END
+CPlistdlg.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPlistdlg.m
+END
+CPgetdirectories.mexmaci
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPgetdirectories.mexmaci
+END
+CPupdatefigurecycle.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPupdatefigurecycle.m
+END
+CPvalidfieldname.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPvalidfieldname.m
+END
+CPuiputfile.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPuiputfile.m
+END
+CPjoinstrings.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPjoinstrings.m
+END
+CPretrievemediafilenames.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPretrievemediafilenames.m
+END
+CPerrorImread.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPerrorImread.m
+END
+CPShowPlateMapDataGUI.fig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPShowPlateMapDataGUI.fig
+END
+CPconfirmallimagespresent.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/CellProfiler/!svn/ver/7478/branches/release_7184/CPsubfunctions/CPconfirmallimagespresent.m
+END
+CPdensity_plot.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPdensity_plot.m
+END
+CPimagetool.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPimagetool.m
+END
+CPfill_holes.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPfill_holes.m
+END
+CPerrordlg.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPerrordlg.m
+END
+CPtwodigitstring.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPtwodigitstring.m
+END
+CPmakegrid.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPmakegrid.m
+END
+CPgetdirectorytree.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPgetdirectorytree.m
+END
+CPShowPlateMapDataFig.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPShowPlateMapDataFig.m
+END
+CPinputdlg.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPinputdlg.m
+END
+CPgetpriorscales.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPgetpriorscales.m
+END
+CPdir.mexa64
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPdir.mexa64
+END
+CPrelateobjects.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPrelateobjects.m
+END
+CPnanstd.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPnanstd.m
+END
+CPwaitbar.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/CellProfiler/!svn/ver/7496/branches/release_7184/CPsubfunctions/CPwaitbar.m
+END
+CPfigurehandle.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPfigurehandle.m
+END
+CPcontrolhistogram.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPcontrolhistogram.m
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/Makefile
+END
+CPlogo.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPlogo.m
+END
+CPvisualizeProbabilisticSegmentation.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPvisualizeProbabilisticSegmentation.m
+END
+CPsaveObjectLocations.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPsaveObjectLocations.m
+END
+CPgetdirectories.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPgetdirectories.c
+END
+CPrgsmartdilate.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPrgsmartdilate.m
+END
+CP_convert_old_measurements.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CP_convert_old_measurements.m
+END
+CPdir.mexmaci
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPdir.mexmaci
+END
+CP_ImagePopupmenu_Callback.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CP_ImagePopupmenu_Callback.m
+END
+CPcompilesubfunction.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPcompilesubfunction.m
+END
+CPsmooth.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPsmooth.m
+END
+CPlabelperim.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPlabelperim.m
+END
+CPdir.mexw64
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPdir.mexw64
+END
+CPreplacemetadata.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPreplacemetadata.m
+END
+CPselectdirectories.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPselectdirectories.m
+END
+CPhelpdlg.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPhelpdlg.m
+END
+CPfigure.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPfigure.m
+END
+CPdilatebinaryobjects.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPdilatebinaryobjects.m
+END
+CPtextdisplaybox.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPtextdisplaybox.m
+END
+CPgetpriormeasurements.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPgetpriormeasurements.m
+END
+CPgetdirectories.mexa64
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPgetdirectories.mexa64
+END
+CPclearborder.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPclearborder.m
+END
+CPplotmeasurement.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPplotmeasurement.m
+END
+CPsaveFileNamesToHandles.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPsaveFileNamesToHandles.m
+END
+CPtiffread.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPtiffread.m
+END
+CPcd.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPcd.m
+END
+CPrandomwalker.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPrandomwalker.m
+END
+CPretrieveimage.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPretrieveimage.m
+END
+CPnanmedian.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPnanmedian.m
+END
+CPsigmoid.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPsigmoid.m
+END
+CPlabel2rgb.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPlabel2rgb.m
+END
+CPblkproc.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPblkproc.m
+END
+CPec50.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPec50.m
+END
+CPnlintool.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPnlintool.m
+END
+CPgetpriorcategories.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/CellProfiler/!svn/ver/7473/branches/release_7184/CPsubfunctions/CPgetpriorcategories.m
+END
+CPtextpipe.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPtextpipe.m
+END
+CPremap_from_example.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPremap_from_example.m
+END
+CPplatemap.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPplatemap.m
+END
+CPcreateCPAPropertiesFile.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/CellProfiler/!svn/ver/7475/branches/release_7184/CPsubfunctions/CPcreateCPAPropertiesFile.m
+END
+CPdir.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPdir.c
+END
+CPclosefigure.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPclosefigure.m
+END
+CPdir.mexw32
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPdir.mexw32
+END
+CPcalculateStatistics.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPcalculateStatistics.m
+END
+CPselectmodules.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPselectmodules.m
+END
+CPwhichmodule.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPwhichmodule.m
+END
+CPuigetdir.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPuigetdir.m
+END
+CPdir.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPdir.m
+END
+CPrescale.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPrescale.m
+END
+CP_VZfactors.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CP_VZfactors.m
+END
+CPaddmeasurements.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPaddmeasurements.m
+END
+CPljosaprobseg.mexmaci
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPljosaprobseg.mexmaci
+END
+CPhistbins.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPhistbins.m
+END
+CPselectoutputfiles.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPselectoutputfiles.m
+END
+CPwritemeasurements.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/CellProfiler/!svn/ver/7511/branches/release_7184/CPsubfunctions/CPwritemeasurements.m
+END
+CPsvnloopfunctions.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPsvnloopfunctions.m
+END
+CPthresh_tool.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPthresh_tool.m
+END
+CPminimizeenergy.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPminimizeenergy.m
+END
+CPthreshold.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPthreshold.m
+END
+CPjustify.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPjustify.m
+END
+CPcalc_illum_corrxn.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPcalc_illum_corrxn.m
+END
+CPtruncatefeaturename.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CellProfiler/!svn/ver/7520/branches/release_7184/CPsubfunctions/CPtruncatefeaturename.m
+END
+CPShowPlateMapDataGUI.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPShowPlateMapDataGUI.m
+END
+CPresizefigure.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPresizefigure.m
+END
+CPgetdirectories.mexw32
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPgetdirectories.mexw32
+END
+CPlargestComponents.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPlargestComponents.m
+END
+CPimagesc.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPimagesc.m
+END
+CPscreensize.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPscreensize.m
+END
+CPminimizeenergy2.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPminimizeenergy2.m
+END
+CPnanmean.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPnanmean.m
+END
+CPuigetfile.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPuigetfile.m
+END
+CPsplash.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPsplash.jpg
+END
+CPdynamizescrollbar.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPdynamizescrollbar.m
+END
+CPhilberttransform.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPhilberttransform.m
+END
+CPsvnversionnumber.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPsvnversionnumber.m
+END
+CP_OrigNewImage_Callback.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CP_OrigNewImage_Callback.m
+END
+CPquestdlg.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPquestdlg.m
+END
+CPimcapture.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPimcapture.m
+END
+CPljosaprobseg.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPljosaprobseg.m
+END
+CPrelabelDensely.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPrelabelDensely.m
+END
+CPlineintegration.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPlineintegration.m
+END
+CPgetfeature.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPgetfeature.m
+END
+CPShowPlateMapDataFig.fig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPShowPlateMapDataFig.fig
+END
+CPimportPreviousModuleSettings.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPimportPreviousModuleSettings.m
+END
+CPeditbox.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPeditbox.m
+END
+CPsaveObjectCount.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPsaveObjectCount.m
+END
+CPvariancefilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPvariancefilter.m
+END
+CPwarndlg.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPwarndlg.m
+END
+CPgetfeaturenamesfromnumbers.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/CellProfiler/!svn/ver/7474/branches/release_7184/CPsubfunctions/CPgetfeaturenamesfromnumbers.m
+END
+CPmsgbox.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPmsgbox.m
+END
+CPaverageimages.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/CellProfiler/!svn/ver/7472/branches/release_7184/CPsubfunctions/CPaverageimages.m
+END
+CPconvertsql.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/CellProfiler/!svn/ver/7499/branches/release_7184/CPsubfunctions/CPconvertsql.m
+END

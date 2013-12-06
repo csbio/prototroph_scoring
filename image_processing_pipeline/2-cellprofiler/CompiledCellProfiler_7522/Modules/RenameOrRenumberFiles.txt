@@ -1,0 +1,12 @@
+%textVAR01 = What did you call the images you want to rename/renumber? Be very careful since you will be renaming (= overwriting) your files!! See the help for this module for other warnings.
+%infotypeVAR01 = imagegroup
+%inputtypeVAR01 = popupmenu
+%textVAR02 = How many characters at the beginning of the file name do you want to retain unaltered?
+%defaultVAR02 = 6
+%textVAR03 = How many characters at the end do you want to retain unaltered, including the .file extension if present?
+%defaultVAR03 = 8
+%textVAR04 = Enter any text you want to place between the beginning and ending portions of the filename. Type  "Do not use" to leave as is.
+%defaultVAR04 = Do not use
+%textVAR05 = How many numerical digits would you like to use between the beginning and ending portions of the filename, for renumbering purposes? Type "Do not use" to leave as is.
+%defaultVAR05 = Do not use
+%%%VariableRevisionNumber = 1
